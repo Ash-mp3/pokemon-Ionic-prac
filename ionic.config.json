@@ -1,0 +1,7 @@
+{
+  "name": "ionicPrac",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
